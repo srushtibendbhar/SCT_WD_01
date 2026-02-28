@@ -33,6 +33,5 @@ The design focuses on:
 
 ---
 
-## 📸 Preview
 
 
